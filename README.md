@@ -2,8 +2,10 @@
 
 ## Introduction
 
-Start your application using CRA.
+Fork this repo.
 At the start you have a simple application which displays planets from Star Wars in grid. Your task is to upgrade it respecting the principles from Tech Stack, Must-have (Good to have and paying attention also)
+
+Due date: 05/10/2022
 
 ## The Task
 1. Replace dummy data with dynamic data from [https://swapi.dev/api/planets/](https://swapi.dev/api/planets/)
