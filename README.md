@@ -9,6 +9,8 @@ Due date: 05/10/2022
 
 After submission we will have your code reviewed with feedback for you within some 15days after due date.
 
+Submissions should be sent to our [**Discord**](https://discord.gg/q9peMJRZZK)
+
 ## The Task
 1. Replace dummy data with dynamic data from [https://swapi.dev/api/planets/](https://swapi.dev/api/planets/)
 1. Planets grid have two buttons - follow the instructions in console.logs
